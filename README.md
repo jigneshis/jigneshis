@@ -1,76 +1,69 @@
-<!-- GitHub Profile README for Jigneshis -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Jignesh+Wadhwani+%F0%9F%91%8B;Full-Stack+Dev+%7C+AI+Enthusiast+%7C+Turri+Creator+%E2%9A%A1" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding" />
-</p>
-
----
-
-## 📘 About Me
-
-```yaml
-name: Jignesh Wadhwani
-username: jigneshis
-role: Full-Stack Developer & AI Enthusiast
-projects:
-  - Turri.ai (custom AI assistant platform)
-  - BEASTY™ Cloud & Hosting
-  - VSXify (editing content brand)
-  - Godzilla Railways (Minecraft network)
-location: 🌍 India
-languages: JavaScript, Python, Node.js, HTML, CSS, SQL, Bash
-status: Building the future one line of code at a time 🚧
-```
-
----
-
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,html,css,tailwind,py,bash,linux,git,github,vscode,supabase,mysql,vercel,netlify" />
+
+<img src="https://i.ibb.co/57p7wWJ/banner.jpg" alt="Jignesh Wadhwani — Full-stack developer, SaaS founder, Ajmer, India" width="100%" />
+
+<br><br>
+
+Turning product ideas into shipped software — solo, doc-first, increasingly AI-assisted.
+
+[![Email](https://img.shields.io/badge/Email-jigneshis%40proton.me-0d1117?style=flat-square&logo=protonmail&logoColor=6E56CF)](mailto:jigneshis@proton.me)
+[![GitHub](https://img.shields.io/badge/GitHub-jigneshis-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jigneshis)
+[![Instagram](https://img.shields.io/badge/Instagram-jigneshis-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/jigneshis)
+
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
+## Currently building
+
+**[CrewCut](https://crewcut.in)** — a three-sided marketplace connecting video editing agencies, freelance editors, and clients. Escrow payments, magic-link client reviews, a Bunny.net media pipeline across four RLS-scoped subdomains. Co-founded with Ishant.
+`in beta`
+
+**[Cinderstack](https://cinderstack.in)** — gym management software built for gym *owners*, not members. Three pilot studios already lined up for validation.
+`on hold — pending CrewCut's beta`
+
+**AfterCription** — a free audio transcription tool on Groq's Whisper API, with Supabase storage and a Vercel serverless layer so the API key never touches the client.
+`shipped`
+
+<br>
+
+## How I actually work
+
+No vibe-coding. Every project starts as a written spec — a PRD and TRD — before a single line of code exists. That doc gets handed to AI coding agents (Cline, Dyad, Stitch MCP) as paste-ready prompts. The doc is the source of truth; the agent is the pair programmer.
+
+<br>
+
+## Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,supabase,vercel,git,github,linux,bash&theme=dark" />
+
+**Frontend** — React · Vite · Tailwind · shadcn/ui
+**Backend / Infra** — Supabase · Vercel · Bunny.net
+**AI tooling** — Cline · Dyad/Lovable · Stitch MCP · Groq
+
+<br>
+
+## GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jigneshis&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jigneshis&theme=radical" alt="Streak Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jigneshis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigneshis&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jigneshis&theme=tokyonight&hide_border=true" />
+</div>
 
-## 🧠 Currently Working On
+<br>
 
-- 🔧 **Turri.ai**: AI for everyone, customizable & powerful  
-- 💾 **BeastyCloud & BeastyHost**: Cloud storage & hosting with rewards  
-- 📱 **Android + Web Apps** for students, creators, and devs  
+## Off the clock
 
----
+FC Barcelona, Tame Impala on loop, and the occasional Warzone lobby.
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/jigneshis" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:support@turri.in.net">
-    <img src="https://img.shields.io/badge/email-support@turri.in.net-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://instagram.com/jigneshis" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<br>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
-
-<p align="center"><i>"Keep coding, keep building, and break the limits." — Jigneshis</i></p>
+<div align="center">
+<sub>Also take on freelance web-dev projects under <b>Lumina Digital Narrative</b> — reach out via email above.</sub>
+</div>
