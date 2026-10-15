@@ -1,69 +1,45 @@
+## Selected work
+
 <div align="center">
 
-<img src="https://i.ibb.co/57p7wWJ/banner.jpg" alt="Jignesh Wadhwani — Full-stack developer, SaaS founder, Ajmer, India" width="100%" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=jigneshis&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F137609546%3Fu%3D4570ffd7abd9c36da14b6ab8773b5d582c8b7aec%26v%3D4" alt="jigneshis hero visual" />
+</p>
 
-<br><br>
-
-Turning product ideas into shipped software — solo, doc-first, increasingly AI-assisted.
-
-[![Email](https://img.shields.io/badge/Email-jigneshis%40proton.me-0d1117?style=flat-square&logo=protonmail&logoColor=6E56CF)](mailto:jigneshis@proton.me)
-[![GitHub](https://img.shields.io/badge/GitHub-jigneshis-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/jigneshis)
-[![Instagram](https://img.shields.io/badge/Instagram-jigneshis-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/jigneshis)
+<h1>Jignesh Wadhwani</h1>
+<p><b>Freelance developer or consultant</b></p>
 
 </div>
 
-<br>
+## The idea behind the work
 
-## Currently building
+> a human
 
-**[CrewCut](https://crewcut.in)** — a three-sided marketplace connecting video editing agencies, freelance editors, and clients. Escrow payments, magic-link client reviews, a Bunny.net media pipeline across four RLS-scoped subdomains. Co-founded with Ishant.
-`in beta`
+- 📍 Based in **India**
+- 🌐 [Website](jignesh.crewcut.in)
+- 👥 **6** followers · **4** following
 
-**[Cinderstack](https://cinderstack.in)** — gym management software built for gym *owners*, not members. Three pilot studios already lined up for validation.
-`on hold — pending CrewCut's beta`
+*Small, useful work over vague claims.*
 
-**AfterCription** — a free audio transcription tool on Groq's Whisper API, with Supabase storage and a Vercel serverless layer so the API key never touches the client.
-`shipped`
+## Case studies
 
-<br>
+<table>
+<tr><td width="32%"><b><a href="https://github.com/jigneshis/Firebase-Authentication-Action-Handler">Firebase-Authentication-Action-Handler</a></b></td><td>A beautifully branded Firebase authentication action handler built with React, TypeScript, and Tailwind CSS. It replaces Firebase’s default email action pages (like password reset, email verification) with a custom, responsive UI on your own domain — matching your app's design and improving user experience.  ✅ Dark/light mode • ✅ Fully responsive <br/><sub>TypeScript · 2 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/jigneshis/glitch-remover">glitch-remover</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/jigneshis/meme-studio">meme-studio</a></b></td><td>A polished, offline-ready meme editor: upload image, add draggable captions/emoji/stickers, tweak filters, layers, undo/redo, and export (PNG/JPEG/WebP). Everything runs in the browser (Canvas API + LocalStorage). Installable as a PWA.<br/><sub>JavaScript · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/jigneshis/Minevraft-AFK-bot">Minevraft-AFK-bot</a></b></td><td>let this bot enter your server and do afk mining, keeping your server online (ATERNO$) <br/><sub>JavaScript · 1 stars</sub></td></tr>
+</table>
 
-## How I actually work
+## Creative toolkit
 
-No vibe-coding. Every project starts as a written spec — a PRD and TRD — before a single line of code exists. That doc gets handed to AI coding agents (Cline, Dyad, Stitch MCP) as paste-ready prompts. The doc is the source of truth; the agent is the pair programmer.
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br>
+## Make something memorable
 
-## Stack
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=jigneshis&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F137609546%3Fu%3D4570ffd7abd9c36da14b6ab8773b5d582c8b7aec%26v%3D4" alt="jigneshis social visual" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,supabase,vercel,git,github,linux,bash&theme=dark" />
+<a href="https://github.com/jigneshis">GitHub</a> · <a href="https://jignesh.crewcut.in">Website</a> · <a href="https://x.com/jigneshis">X</a>
 
-**Frontend** — React · Vite · Tailwind · shadcn/ui
-**Backend / Infra** — Supabase · Vercel · Bunny.net
-**AI tooling** — Cline · Dyad/Lovable · Stitch MCP · Groq
-
-<br>
-
-## GitHub stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jigneshis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigneshis&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jigneshis&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-## Off the clock
-
-FC Barcelona, Tame Impala on loop, and the occasional Warzone lobby.
-
-<br>
-
----
-
-<div align="center">
-<sub>Also take on freelance web-dev projects under <b>Lumina Digital Narrative</b> — reach out via email above.</sub>
-</div>
+<p align="center"><sub>Jignesh Wadhwani · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
